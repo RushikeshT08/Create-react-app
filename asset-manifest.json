@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nasa-apod-gallery-app/static/css/main.9a1da716.chunk.css",
+    "main.js": "/nasa-apod-gallery-app/static/js/main.e459f4b8.chunk.js",
+    "main.js.map": "/nasa-apod-gallery-app/static/js/main.e459f4b8.chunk.js.map",
+    "runtime~main.js": "/nasa-apod-gallery-app/static/js/runtime~main.48c28c96.js",
+    "runtime~main.js.map": "/nasa-apod-gallery-app/static/js/runtime~main.48c28c96.js.map",
+    "static/js/2.3ea9490e.chunk.js": "/nasa-apod-gallery-app/static/js/2.3ea9490e.chunk.js",
+    "static/js/2.3ea9490e.chunk.js.map": "/nasa-apod-gallery-app/static/js/2.3ea9490e.chunk.js.map",
+    "index.html": "/nasa-apod-gallery-app/index.html",
+    "precache-manifest.488606d33c185417986283a32e5d0160.js": "/nasa-apod-gallery-app/precache-manifest.488606d33c185417986283a32e5d0160.js",
+    "service-worker.js": "/nasa-apod-gallery-app/service-worker.js",
+    "static/css/main.9a1da716.chunk.css.map": "/nasa-apod-gallery-app/static/css/main.9a1da716.chunk.css.map",
+    "static/media/App.module.css": "/nasa-apod-gallery-app/static/media/darkrift-space.1fe66bf6.jpg"
+  }
+}
